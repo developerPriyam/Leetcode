@@ -1,2 +1,85 @@
-# Leetcode
-Day 1 to 100  Solving LeetCode problems daily to improve my problem-solving skills, strengthen my DSA fundamentals, and prepare for software engineering placements.  This repository tracks my daily solutions, approaches, and progress as I work toward becoming a better programmer, one problem at a time. 
+# 🚀 LeetCode DSA Journey
+
+> One problem at a time. One day at a time. Better every day.
+
+Welcome to my **LeetCode DSA Journey!** This repository documents my daily problem-solving practice as I work toward strengthening my Data Structures and Algorithms (DSA) fundamentals and becoming a better programmer.
+
+After completing a 61-day streak, I'm starting fresh with a new goal: **100 days of consistent coding and continuous improvement.**
+
+The streak may have restarted, but the learning never stopped. 💪
+
+## 🎯 Goals
+
+- 📅 Solve at least one LeetCode problem every day.
+- 🧠 Improve problem-solving and logical thinking.
+- 💻 Strengthen my understanding of Data Structures and Algorithms.
+- ⚡ Learn optimal solutions and analyze time and space complexity.
+- 📈 Track my progress and build consistency.
+- 🎯 Prepare for software engineering placements.
+
+## 🛠️ Languages & Tools
+
+- **Language:** C++
+- **Practice Platform:** [LeetCode](https://leetcode.com/)
+- **Version Control:** Git & GitHub
+- **Automatic Solution Sync:** LeetHub
+
+## 📂 Repository Structure
+
+Solutions are organized by problem name and topic, depending on how LeetHub uploads them.
+
+```text
+LeetCode-DSA-Journey/
+├── README.md
+├── Two Sum/
+│   └── solution.cpp
+├── Contains Duplicate/
+│   └── solution.cpp
+└── ...
+```
+
+*The actual folder and file names may vary.*
+
+## 📅 My 100-Day Challenge
+
+| Milestone | Goal |
+|---|---|
+| Day 1 | Start again with a fresh mindset |
+| Day 7 | Build a consistent weekly routine |
+| Day 30 | Strengthen DSA fundamentals |
+| Day 61 | Beat my previous streak |
+| Day 100 | Complete 100 days of consistent practice |
+
+## 📚 Topics I'm Practicing
+
+- Arrays & Strings
+- Hashing
+- Two Pointers
+- Binary Search
+- Linked Lists
+- Stacks & Queues
+- Sorting
+- Recursion
+- Trees & Graphs
+- Dynamic Programming
+
+*Topics will be added as I progress.*
+
+## 📈 My Philosophy
+
+- Consistency over intensity.
+- Understand the approach, not just the code.
+- Optimize whenever possible.
+- Learn from mistakes.
+- Keep showing up, even on difficult days.
+
+## 🔗 Connect With Me
+
+- **GitHub:** [@developerPriyam](https://github.com/developerPriyam)
+- **LeetCode:** [gpriyam_2001](https://leetcode.com/u/gpriyam_2001/)
+
+---
+
+### 🔥 Day 1/100 — The Comeback Starts Here!
+
+*Building better problem-solving skills, one commit at a time.*
