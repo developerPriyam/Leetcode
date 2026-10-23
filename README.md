@@ -91,6 +91,7 @@ LeetCode-DSA-Journey/
 | ------- |
 | [0027-remove-element](https://github.com/developerPriyam/Leetcode/tree/master/0027-remove-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/developerPriyam/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/developerPriyam/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -140,5 +141,6 @@ LeetCode-DSA-Journey/
 ## Math
 |  |
 | ------- |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/developerPriyam/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/developerPriyam/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 <!---LeetCode Topics End-->
