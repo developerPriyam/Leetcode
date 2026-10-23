@@ -137,4 +137,8 @@ LeetCode-DSA-Journey/
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/developerPriyam/Leetcode/tree/master/0143-reorder-list) |
+## Math
+|  |
+| ------- |
+| [1344-angle-between-hands-of-a-clock](https://github.com/developerPriyam/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 <!---LeetCode Topics End-->
