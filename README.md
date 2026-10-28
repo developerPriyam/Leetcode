@@ -158,6 +158,7 @@ LeetCode-DSA-Journey/
 | ------- |
 | [0067-add-binary](https://github.com/developerPriyam/Leetcode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/developerPriyam/Leetcode/tree/master/0190-reverse-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/developerPriyam/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0371-sum-of-two-integers](https://github.com/developerPriyam/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Simulation
 |  |
@@ -191,4 +192,16 @@ LeetCode-DSA-Journey/
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/developerPriyam/Leetcode/tree/master/0190-reverse-bits) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/developerPriyam/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/developerPriyam/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/developerPriyam/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
