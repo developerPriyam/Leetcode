@@ -107,6 +107,7 @@ LeetCode-DSA-Journey/
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/developerPriyam/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/developerPriyam/Leetcode/tree/master/0067-add-binary) |
+| [0205-isomorphic-strings](https://github.com/developerPriyam/Leetcode/tree/master/0205-isomorphic-strings) |
 | [2409-count-days-spent-together](https://github.com/developerPriyam/Leetcode/tree/master/2409-count-days-spent-together) |
 ## String Matching
 |  |
@@ -127,6 +128,7 @@ LeetCode-DSA-Journey/
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/developerPriyam/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/developerPriyam/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/developerPriyam/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Sorting
