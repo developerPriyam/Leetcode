@@ -94,6 +94,7 @@ LeetCode-DSA-Journey/
 | [0877-stone-game](https://github.com/developerPriyam/Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/developerPriyam/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/developerPriyam/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/developerPriyam/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -127,6 +128,7 @@ LeetCode-DSA-Journey/
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/developerPriyam/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/developerPriyam/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Sorting
 |  |
 | ------- |
@@ -204,4 +206,8 @@ LeetCode-DSA-Journey/
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/developerPriyam/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Counting
+|  |
+| ------- |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/developerPriyam/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 <!---LeetCode Topics End-->
