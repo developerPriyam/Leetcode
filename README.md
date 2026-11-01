@@ -95,6 +95,7 @@ LeetCode-DSA-Journey/
 | [0877-stone-game](https://github.com/developerPriyam/Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/developerPriyam/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/developerPriyam/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1672-richest-customer-wealth](https://github.com/developerPriyam/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/developerPriyam/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Two Pointers
 |  |
@@ -218,4 +219,5 @@ LeetCode-DSA-Journey/
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/developerPriyam/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [1672-richest-customer-wealth](https://github.com/developerPriyam/Leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
