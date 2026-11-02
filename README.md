@@ -92,6 +92,7 @@ LeetCode-DSA-Journey/
 | [0027-remove-element](https://github.com/developerPriyam/Leetcode/tree/master/0027-remove-element) |
 | [0073-set-matrix-zeroes](https://github.com/developerPriyam/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/developerPriyam/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/developerPriyam/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/developerPriyam/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0877-stone-game](https://github.com/developerPriyam/Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/developerPriyam/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -158,6 +159,7 @@ LeetCode-DSA-Journey/
 | ------- |
 | [0067-add-binary](https://github.com/developerPriyam/Leetcode/tree/master/0067-add-binary) |
 | [0371-sum-of-two-integers](https://github.com/developerPriyam/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/developerPriyam/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/developerPriyam/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0877-stone-game](https://github.com/developerPriyam/Leetcode/tree/master/0877-stone-game) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/developerPriyam/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
