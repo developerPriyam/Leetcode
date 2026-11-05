@@ -1,27 +1,23 @@
 class Solution {
 public:
     vector<vector<int>> findWinners(vector<vector<int>>& matches) {
-        vector<int> ans1,ans2;
-        unordered_map<int,int> losses;
-        set<int> players;
-
-        for(auto&m:matches){
-            int loser=m[1];
-            int winner=m[0];
-
-            losses[loser]++;
-
-            players.insert(m[0]);
-            players.insert(m[1]);
+        vector<vector<int>> ans(2);
+        map<int,int> m;
+       
+        for(auto&match:matches){
+            int loser=match[1];
+            int winner=match[0];
+            m[loser]++;
+            m[winner]+=0;
         }
-        for(int p:players){
-            if(losses.find(p)==losses.end()){
-                ans1.push_back(p);
+        for(auto it:m){
+            if(it.second==0){
+                ans[0].push_back(it.first);
             }
-            else if(losses[p]==1){
-                ans2.push_back(p);
+            else if(it.second==1){
+                ans[1].push_back(it.first);
             }
         }
-        return {ans1,ans2};
+        return ans;
     }
 };
