@@ -101,6 +101,7 @@ LeetCode-DSA-Journey/
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/developerPriyam/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1672-richest-customer-wealth](https://github.com/developerPriyam/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/developerPriyam/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/developerPriyam/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Two Pointers
 |  |
 | ------- |
@@ -139,6 +140,7 @@ LeetCode-DSA-Journey/
 | [0205-isomorphic-strings](https://github.com/developerPriyam/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/developerPriyam/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/developerPriyam/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/developerPriyam/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Sorting
 |  |
 | ------- |
@@ -146,6 +148,7 @@ LeetCode-DSA-Journey/
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/developerPriyam/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0881-boats-to-save-people](https://github.com/developerPriyam/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/developerPriyam/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/developerPriyam/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Linked List
 |  |
 | ------- |
@@ -227,6 +230,7 @@ LeetCode-DSA-Journey/
 |  |
 | ------- |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/developerPriyam/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/developerPriyam/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Matrix
 |  |
 | ------- |
