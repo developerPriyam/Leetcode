@@ -4,7 +4,7 @@ public:
         int n=nums.size();
         int MR=0;
         for(int i=0;i<n;i++){
-            if(i>MR){
+            if(MR<i){
                 return false;
             }
             else{
