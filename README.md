@@ -95,6 +95,7 @@ LeetCode-DSA-Journey/
 | [0442-find-all-duplicates-in-an-array](https://github.com/developerPriyam/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/developerPriyam/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/developerPriyam/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0739-daily-temperatures](https://github.com/developerPriyam/Leetcode/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/developerPriyam/Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/developerPriyam/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/developerPriyam/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -157,6 +158,7 @@ LeetCode-DSA-Journey/
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/developerPriyam/Leetcode/tree/master/0143-reorder-list) |
+| [0739-daily-temperatures](https://github.com/developerPriyam/Leetcode/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
 | ------- |
@@ -236,4 +238,8 @@ LeetCode-DSA-Journey/
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/developerPriyam/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1672-richest-customer-wealth](https://github.com/developerPriyam/Leetcode/tree/master/1672-richest-customer-wealth) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/developerPriyam/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
