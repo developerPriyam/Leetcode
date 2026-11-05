@@ -90,6 +90,7 @@ LeetCode-DSA-Journey/
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/developerPriyam/Leetcode/tree/master/0027-remove-element) |
+| [0055-jump-game](https://github.com/developerPriyam/Leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/developerPriyam/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/developerPriyam/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/developerPriyam/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -182,6 +183,7 @@ LeetCode-DSA-Journey/
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/developerPriyam/Leetcode/tree/master/0055-jump-game) |
 | [0881-boats-to-save-people](https://github.com/developerPriyam/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Timsort
 |  |
@@ -190,6 +192,7 @@ LeetCode-DSA-Journey/
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/developerPriyam/Leetcode/tree/master/0055-jump-game) |
 | [0877-stone-game](https://github.com/developerPriyam/Leetcode/tree/master/0877-stone-game) |
 ## Minimax
 |  |
