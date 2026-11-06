@@ -95,6 +95,7 @@ LeetCode-DSA-Journey/
 | [0442-find-all-duplicates-in-an-array](https://github.com/developerPriyam/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/developerPriyam/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/developerPriyam/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0621-task-scheduler](https://github.com/developerPriyam/Leetcode/tree/master/0621-task-scheduler) |
 | [0739-daily-temperatures](https://github.com/developerPriyam/Leetcode/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/developerPriyam/Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/developerPriyam/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -140,6 +141,7 @@ LeetCode-DSA-Journey/
 | [0073-set-matrix-zeroes](https://github.com/developerPriyam/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/developerPriyam/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/developerPriyam/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0621-task-scheduler](https://github.com/developerPriyam/Leetcode/tree/master/0621-task-scheduler) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/developerPriyam/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/developerPriyam/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Sorting
@@ -147,6 +149,7 @@ LeetCode-DSA-Journey/
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/developerPriyam/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/developerPriyam/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0621-task-scheduler](https://github.com/developerPriyam/Leetcode/tree/master/0621-task-scheduler) |
 | [0881-boats-to-save-people](https://github.com/developerPriyam/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/developerPriyam/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/developerPriyam/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -189,6 +192,7 @@ LeetCode-DSA-Journey/
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/developerPriyam/Leetcode/tree/master/0055-jump-game) |
+| [0621-task-scheduler](https://github.com/developerPriyam/Leetcode/tree/master/0621-task-scheduler) |
 | [0881-boats-to-save-people](https://github.com/developerPriyam/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Timsort
 |  |
@@ -231,6 +235,7 @@ LeetCode-DSA-Journey/
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/developerPriyam/Leetcode/tree/master/0621-task-scheduler) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/developerPriyam/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/developerPriyam/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Matrix
@@ -242,4 +247,8 @@ LeetCode-DSA-Journey/
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/developerPriyam/Leetcode/tree/master/0739-daily-temperatures) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/developerPriyam/Leetcode/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
