@@ -92,6 +92,7 @@ LeetCode-DSA-Journey/
 | [0027-remove-element](https://github.com/developerPriyam/Leetcode/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/developerPriyam/Leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/developerPriyam/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/developerPriyam/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/developerPriyam/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/developerPriyam/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/developerPriyam/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -161,6 +162,7 @@ LeetCode-DSA-Journey/
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/developerPriyam/Leetcode/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/developerPriyam/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/developerPriyam/Leetcode/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
@@ -170,6 +172,7 @@ LeetCode-DSA-Journey/
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/developerPriyam/Leetcode/tree/master/0067-add-binary) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/developerPriyam/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0371-sum-of-two-integers](https://github.com/developerPriyam/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/developerPriyam/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/developerPriyam/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
