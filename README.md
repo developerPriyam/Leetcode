@@ -90,6 +90,7 @@ LeetCode-DSA-Journey/
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/developerPriyam/Leetcode/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/developerPriyam/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0055-jump-game](https://github.com/developerPriyam/Leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/developerPriyam/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/developerPriyam/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -225,6 +226,7 @@ LeetCode-DSA-Journey/
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/developerPriyam/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/developerPriyam/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/developerPriyam/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Tree
