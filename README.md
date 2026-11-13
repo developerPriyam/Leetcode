@@ -107,6 +107,7 @@ LeetCode-DSA-Journey/
 | [1672-richest-customer-wealth](https://github.com/developerPriyam/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/developerPriyam/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/developerPriyam/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/developerPriyam/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3693-climbing-stairs-ii](https://github.com/developerPriyam/Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Two Pointers
 |  |
@@ -167,6 +168,7 @@ LeetCode-DSA-Journey/
 | [0143-reorder-list](https://github.com/developerPriyam/Leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/developerPriyam/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/developerPriyam/Leetcode/tree/master/0739-daily-temperatures) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/developerPriyam/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Recursion
 |  |
 | ------- |
@@ -256,6 +258,7 @@ LeetCode-DSA-Journey/
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/developerPriyam/Leetcode/tree/master/0739-daily-temperatures) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/developerPriyam/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -265,4 +268,20 @@ LeetCode-DSA-Journey/
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/developerPriyam/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Segment Tree
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/developerPriyam/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/developerPriyam/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Sliding Window
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/developerPriyam/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/developerPriyam/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
