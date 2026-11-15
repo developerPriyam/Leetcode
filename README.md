@@ -103,6 +103,7 @@ LeetCode-DSA-Journey/
 | [0881-boats-to-save-people](https://github.com/developerPriyam/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/developerPriyam/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/developerPriyam/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/developerPriyam/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/developerPriyam/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1672-richest-customer-wealth](https://github.com/developerPriyam/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/developerPriyam/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -185,6 +186,7 @@ LeetCode-DSA-Journey/
 | [0877-stone-game](https://github.com/developerPriyam/Leetcode/tree/master/0877-stone-game) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/developerPriyam/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/developerPriyam/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/developerPriyam/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2409-count-days-spent-together](https://github.com/developerPriyam/Leetcode/tree/master/2409-count-days-spent-together) |
 ## Bit Manipulation
 |  |
@@ -213,6 +215,7 @@ LeetCode-DSA-Journey/
 | ------- |
 | [0055-jump-game](https://github.com/developerPriyam/Leetcode/tree/master/0055-jump-game) |
 | [0877-stone-game](https://github.com/developerPriyam/Leetcode/tree/master/0877-stone-game) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/developerPriyam/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3693-climbing-stairs-ii](https://github.com/developerPriyam/Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Minimax
 |  |
@@ -289,5 +292,6 @@ LeetCode-DSA-Journey/
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/developerPriyam/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/developerPriyam/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
