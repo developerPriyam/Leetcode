@@ -125,6 +125,7 @@ LeetCode-DSA-Journey/
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/developerPriyam/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/developerPriyam/Leetcode/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/developerPriyam/Leetcode/tree/master/0205-isomorphic-strings) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/developerPriyam/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/developerPriyam/Leetcode/tree/master/2409-count-days-spent-together) |
 ## String Matching
 |  |
@@ -200,6 +201,7 @@ LeetCode-DSA-Journey/
 | ------- |
 | [0067-add-binary](https://github.com/developerPriyam/Leetcode/tree/master/0067-add-binary) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/developerPriyam/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/developerPriyam/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Greedy
 |  |
 | ------- |
