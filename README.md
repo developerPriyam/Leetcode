@@ -129,6 +129,7 @@ LeetCode-DSA-Journey/
 | [2243-calculate-digit-sum-of-a-string](https://github.com/developerPriyam/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/developerPriyam/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/developerPriyam/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/developerPriyam/Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3894-traffic-signal-color](https://github.com/developerPriyam/Leetcode/tree/master/3894-traffic-signal-color) |
 ## String Matching
 |  |
