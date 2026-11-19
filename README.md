@@ -108,6 +108,7 @@ LeetCode-DSA-Journey/
 | [1672-richest-customer-wealth](https://github.com/developerPriyam/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/developerPriyam/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/developerPriyam/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/developerPriyam/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3364-minimum-positive-sum-subarray](https://github.com/developerPriyam/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/developerPriyam/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3693-climbing-stairs-ii](https://github.com/developerPriyam/Leetcode/tree/master/3693-climbing-stairs-ii) |
@@ -165,6 +166,7 @@ LeetCode-DSA-Journey/
 | [0881-boats-to-save-people](https://github.com/developerPriyam/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/developerPriyam/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/developerPriyam/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/developerPriyam/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -214,6 +216,7 @@ LeetCode-DSA-Journey/
 | [0055-jump-game](https://github.com/developerPriyam/Leetcode/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/developerPriyam/Leetcode/tree/master/0621-task-scheduler) |
 | [0881-boats-to-save-people](https://github.com/developerPriyam/Leetcode/tree/master/0881-boats-to-save-people) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/developerPriyam/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Timsort
 |  |
 | ------- |
