@@ -110,6 +110,7 @@ LeetCode-DSA-Journey/
 | [2225-find-players-with-zero-or-one-losses](https://github.com/developerPriyam/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/developerPriyam/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/developerPriyam/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/developerPriyam/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/developerPriyam/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/developerPriyam/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3693-climbing-stairs-ii](https://github.com/developerPriyam/Leetcode/tree/master/3693-climbing-stairs-ii) |
@@ -132,6 +133,7 @@ LeetCode-DSA-Journey/
 | [2409-count-days-spent-together](https://github.com/developerPriyam/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/developerPriyam/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/developerPriyam/Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/developerPriyam/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3894-traffic-signal-color](https://github.com/developerPriyam/Leetcode/tree/master/3894-traffic-signal-color) |
 ## String Matching
 |  |
@@ -158,6 +160,7 @@ LeetCode-DSA-Journey/
 | [0621-task-scheduler](https://github.com/developerPriyam/Leetcode/tree/master/0621-task-scheduler) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/developerPriyam/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/developerPriyam/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/developerPriyam/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Sorting
 |  |
 | ------- |
@@ -258,6 +261,7 @@ LeetCode-DSA-Journey/
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/developerPriyam/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/developerPriyam/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -309,4 +313,8 @@ LeetCode-DSA-Journey/
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/developerPriyam/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/developerPriyam/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+## Depth-First Search
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/developerPriyam/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 <!---LeetCode Topics End-->
