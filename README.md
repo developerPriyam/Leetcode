@@ -129,6 +129,7 @@ LeetCode-DSA-Journey/
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/developerPriyam/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/developerPriyam/Leetcode/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/developerPriyam/Leetcode/tree/master/0205-isomorphic-strings) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/developerPriyam/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/developerPriyam/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/developerPriyam/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/developerPriyam/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
