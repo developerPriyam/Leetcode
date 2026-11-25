@@ -116,6 +116,7 @@ LeetCode-DSA-Journey/
 | [3411-maximum-subarray-with-equal-products](https://github.com/developerPriyam/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/developerPriyam/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3693-climbing-stairs-ii](https://github.com/developerPriyam/Leetcode/tree/master/3693-climbing-stairs-ii) |
+| [3934-smallest-unique-subarray](https://github.com/developerPriyam/Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -164,6 +165,7 @@ LeetCode-DSA-Journey/
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/developerPriyam/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/developerPriyam/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/developerPriyam/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3934-smallest-unique-subarray](https://github.com/developerPriyam/Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -262,6 +264,7 @@ LeetCode-DSA-Journey/
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/developerPriyam/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/developerPriyam/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/developerPriyam/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3934-smallest-unique-subarray](https://github.com/developerPriyam/Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Tree
 |  |
 | ------- |
@@ -340,4 +343,16 @@ LeetCode-DSA-Journey/
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/developerPriyam/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/developerPriyam/Leetcode/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/developerPriyam/Leetcode/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/developerPriyam/Leetcode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
