@@ -206,6 +206,7 @@ LeetCode-DSA-Journey/
 | [1352-product-of-the-last-k-numbers](https://github.com/developerPriyam/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/developerPriyam/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2409-count-days-spent-together](https://github.com/developerPriyam/Leetcode/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/developerPriyam/Leetcode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/developerPriyam/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3894-traffic-signal-color](https://github.com/developerPriyam/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Bit Manipulation
@@ -221,6 +222,7 @@ LeetCode-DSA-Journey/
 | [0067-add-binary](https://github.com/developerPriyam/Leetcode/tree/master/0067-add-binary) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/developerPriyam/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/developerPriyam/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/developerPriyam/Leetcode/tree/master/3360-stone-removal-game) |
 | [3894-traffic-signal-color](https://github.com/developerPriyam/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Greedy
 |  |
