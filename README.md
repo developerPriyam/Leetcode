@@ -117,6 +117,7 @@ LeetCode-DSA-Journey/
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/developerPriyam/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3693-climbing-stairs-ii](https://github.com/developerPriyam/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3934-smallest-unique-subarray](https://github.com/developerPriyam/Leetcode/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/developerPriyam/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -231,6 +232,7 @@ LeetCode-DSA-Journey/
 | [0621-task-scheduler](https://github.com/developerPriyam/Leetcode/tree/master/0621-task-scheduler) |
 | [0881-boats-to-save-people](https://github.com/developerPriyam/Leetcode/tree/master/0881-boats-to-save-people) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/developerPriyam/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/developerPriyam/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Timsort
 |  |
 | ------- |
@@ -244,6 +246,7 @@ LeetCode-DSA-Journey/
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/developerPriyam/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/developerPriyam/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3693-climbing-stairs-ii](https://github.com/developerPriyam/Leetcode/tree/master/3693-climbing-stairs-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/developerPriyam/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Minimax
 |  |
 | ------- |
