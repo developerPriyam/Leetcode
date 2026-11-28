@@ -118,6 +118,7 @@ LeetCode-DSA-Journey/
 | [3693-climbing-stairs-ii](https://github.com/developerPriyam/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3934-smallest-unique-subarray](https://github.com/developerPriyam/Leetcode/tree/master/3934-smallest-unique-subarray) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/developerPriyam/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/developerPriyam/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -178,6 +179,7 @@ LeetCode-DSA-Journey/
 | [2225-find-players-with-zero-or-one-losses](https://github.com/developerPriyam/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/developerPriyam/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/developerPriyam/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/developerPriyam/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -233,6 +235,7 @@ LeetCode-DSA-Journey/
 | [0881-boats-to-save-people](https://github.com/developerPriyam/Leetcode/tree/master/0881-boats-to-save-people) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/developerPriyam/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/developerPriyam/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/developerPriyam/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Timsort
 |  |
 | ------- |
@@ -300,6 +303,7 @@ LeetCode-DSA-Journey/
 | ------- |
 | [0621-task-scheduler](https://github.com/developerPriyam/Leetcode/tree/master/0621-task-scheduler) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/developerPriyam/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/developerPriyam/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Ordered Set
 |  |
 | ------- |
