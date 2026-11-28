@@ -1,50 +1,49 @@
 class Solution {
 public:
-    long long maximumSaleItems(vector<vector<int>>& items, int budget) {
+    int maximumSaleItems(vector<vector<int>>& items, int budget) {
         int n = items.size();
-        vector<int> freq(n + 1, 0);
+
+        vector<int> freq(n + 1, 0), extra(n + 1, 0);
 
         for (auto& item : items)
             freq[item[0]]++;
 
-        vector<int> gain(n + 1, 0);
-
         for (int f = 1; f <= n; f++) {
-            for (int j = f; j <= n; j += f) {
-                gain[f] += freq[j];
-            }
-            gain[f]--;
+            extra[f] = freq[f];
+
+            for (int j = 2 * f; j <= n; j += f)
+                extra[f] += freq[j];
+
+            extra[f]--;
         }
 
-        vector<array<long long, 3>> opportunities;
+        vector<vector<int>> goods;
 
         for (auto& item : items) {
-            int f = item[0];
+            int factor = item[0];
             int price = item[1];
 
-            if (gain[f] > 0) {
-                opportunities.push_back({price, 2, gain[f]});
-            }
+            if (extra[factor] > 0)
+                goods.push_back({price, 2, extra[factor]});
 
-            opportunities.push_back({price, 1, LLONG_MAX});
+            goods.push_back({price, 1, INT_MAX});
         }
 
-        sort(opportunities.begin(), opportunities.end(),
-             [](auto& a, auto& b) {
-                 return a[1] * b[0] > b[1] * a[0];
-             });
+        sort(goods.begin(), goods.end(), [](vector<int>& a, vector<int>& b) {
+            return a[1] * b[0] > b[1] * a[0];
+        });
 
-        long long ans = 0;
+        int ans = 0;
 
-        for (auto& op : opportunities) {
-            long long price = op[0];
-            long long value = op[1];
-            long long limit = op[2];
+        for (auto& g : goods) {
+            int price = g[0];
+            int value = g[1];
+            int limit = g[2];
 
-            long long count = min(limit, budget / price);
+            int cnt = min(limit, budget / price);
 
-            ans += count * value;
-            budget -= count * price;
+            ans += cnt * value;
+            budget -= cnt * price;
         }
 
         return ans;
